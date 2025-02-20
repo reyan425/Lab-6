@@ -1,0 +1,5 @@
+Console.WriteLine("Bread");
+Console.WriteLine("Ketchep");
+Console.WriteLine("Egg");
+Console.WriteLine("Oil");
+Console.WriteLine("Sugar");
